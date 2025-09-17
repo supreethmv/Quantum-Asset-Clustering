@@ -104,7 +104,7 @@ If you use this repository, please cite our paper:
 ```
 @inproceedings{quantum_asset_clustering,
   title={Toward Quantum Utility in Finance: A Robust Data-Driven Algorithm for Asset Clustering},
-  author={SHivam Sharma, Supreeth Mysore Venkatesh, Pushkin Kachroo},
+  author={Shivam Sharma, Supreeth Mysore Venkatesh, Pushkin Kachroo},
   booktitle={Proceedings of the 1st International Quantum Engineering Conference and Exhibition (QUEST-IS 2025)},
   year={2025},
   eprint={2509.07766},
